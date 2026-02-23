@@ -7,6 +7,16 @@ Aspiring developer from Sweden with a burning passion for learning new technolog
   <img src="https://skillicons.dev/icons?i=vscode,java,php,html,css,js,ts,react,github,git,mysql,postgresql,supabase,figma" />
 </div>
 
+<div alisn="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aneeho/aneeho/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aneeho/aneeho/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aneeho&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aneeho&theme=dark&hide_border=false)<br/>
