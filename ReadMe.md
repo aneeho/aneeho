@@ -7,7 +7,7 @@ Aspiring developer from Sweden with a burning passion for learning new technolog
   <img src="https://skillicons.dev/icons?i=vscode,java,php,html,css,js,ts,react,github,git,mysql,postgresql,supabase,figma" />
 </div>
 
-<div alisn="center">
+<div align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aneeho/aneeho/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aneeho/aneeho/output/github-contribution-grid-snake.svg">
@@ -18,9 +18,12 @@ Aspiring developer from Sweden with a burning passion for learning new technolog
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aneeho&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aneeho&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aneeho&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+  ![](https://github-readme-stats.vercel.app/api?username=aneeho&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=aneeho&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aneeho&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 # 💻 General Tech Stack:
 <!-- Align the -->
