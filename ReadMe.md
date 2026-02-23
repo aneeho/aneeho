@@ -1,13 +1,19 @@
 # 💫 About Me:
 Aspiring developer from Sweden with a burning passion for learning new technologies and build projects. I primarily work with Java and TypeScript, but also enjoy working with web technologies like PHP, CSS, HTML. I also have experience with database systems, including MySQL, PostgreSQL and MariaDB, and enjoy exploring how backend and frontend development come together to create functional applications. Always eager to learn, grow, and contribute to exciting projects.
 
-# 💻 Tech Stack:
+# 🎯 Currently Used Technology:
 <!-- Icon Pack for mostly used -->
 <div>
   <img src="https://skillicons.dev/icons?i=vscode,java,php,html,css,js,ts,react,github,git,mysql,postgresql,supabase,figma" />
 </div>
 <br />
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aneeho&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aneeho&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aneeho&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# 💻 General Tech Stack:
 <!-- Icons with styles for "general" skills -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -44,8 +50,3 @@ Aspiring developer from Sweden with a burning passion for learning new technolog
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aneeho&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aneeho&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aneeho&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
