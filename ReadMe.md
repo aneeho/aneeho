@@ -19,7 +19,8 @@ Aspiring developer from Sweden with a burning passion for learning new technolog
 
 # 📊 GitHub Stats:
 <div align="center">
-  ![](https://nirzak-streak-stats.vercel.app/?user=aneeho&theme=dark&hide_border=false)
+  
+   ![](https://nirzak-streak-stats.vercel.app/?user=aneeho&theme=dark&hide_border=false)<br/>
 </div>
 
 # 💻 General Tech Stack:
