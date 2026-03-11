@@ -19,10 +19,7 @@ Aspiring developer from Sweden with a burning passion for learning new technolog
 
 # 📊 GitHub Stats:
 <div align="center">
-
-  ![](https://github-readme-stats.vercel.app/api?username=aneeho&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=aneeho&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aneeho&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://nirzak-streak-stats.vercel.app/?user=aneeho&theme=dark&hide_border=false)
 </div>
 
 # 💻 General Tech Stack:
