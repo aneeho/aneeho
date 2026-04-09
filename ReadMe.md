@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring developer from Sweden with a burning passion for learning new technologies and build projects. I primarily work with Java and TypeScript, but also enjoy working with web technologies like PHP, CSS, HTML. I also have experience with database systems, including MySQL, PostgreSQL and MariaDB, and enjoy exploring how backend and frontend development come together to create functional applications. Always eager to learn, grow, and contribute to exciting projects.
+Aspiring developer from Sweden with a burning passion for learning new technologies and build projects. I primarily work with Java, JavaScript and TypeScript, but also enjoy working with web technologies like PHP, CSS, HTML. I also have experience with database systems, including MySQL, PostgreSQL and MariaDB, and enjoy exploring how backend and frontend development come together to create functional applications. Always eager to learn, grow, and contribute to exciting projects.
 
 # 🎯 Currently Used Technology:
 <!-- Icon Pack for mostly used -->
